@@ -1,0 +1,39 @@
+{
+  "name": "rpi-stepper",
+  "version": "0.1.0",
+  "description": "Control a stepper motor with a Raspberry Pi.",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/troywarr/rpi-stepper.git"
+  },
+  "keywords": [
+    "node",
+    "javascript",
+    "npm",
+    "stepper",
+    "motor",
+    "step",
+    "control",
+    "raspberry",
+    "pi",
+    "raspi",
+    "rpi",
+    "controlling",
+    "stepping",
+    "bipolar",
+    "unipolar"
+  ],
+  "author": "Troy Warr <troy3000@gmail.com> (http://troywarr.info/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/troywarr/rpi-stepper/issues"
+  },
+  "homepage": "https://github.com/troywarr/rpi-stepper",
+  "dependencies": {
+    "pi-gpio": "0.0.6"
+  }
+}
